@@ -55,3 +55,30 @@ Software required to run the project. Install:
 - [Docker](https://docs.docker.com/get-docker/) - You must allocate a minimum of 8 GB of Docker memory resource.
 - [Python 3.8+ (pip)](https://www.python.org/)
 - [docker-compose](https://docs.docker.com/compose/install/)
+
+<!-- RUNNING PROJECT -->
+## Running project
+Script `manage.sh` - wrapper for `docker-compose` works as a managing tool.
+
+- Build project infrastructure
+```sh
+./manage.sh up
+```
+
+- Stop project infrastructure
+```sh
+./manage.sh stop
+```
+
+- Delete project infrastructure
+```sh
+./manage.sh down
+```
+
+<!-- TESTING -->
+## Testing
+Script `run_tests.sh` executes unit tests against Airflow scraping modules and Django Rest Framework applications.
+
+```sh
+./run_tests.sh
+```
