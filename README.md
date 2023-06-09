@@ -85,3 +85,6 @@ Script `run_tests.sh` executes unit tests against Airflow scraping modules and D
 <!-- API -->
 ## API service
 Read detailed [documentation](api) on how to interact with data collected by pipeline using **search** endpoints.
+
+Example searches:
+- see all news
