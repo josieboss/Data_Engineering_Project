@@ -106,4 +106,33 @@ http://127.0.0.1:5000/api/v1/news/?search=title|Lewandowski
 
 ```
 http://127.0.0.1:5000/api/v1/news/?search=lewandowski&language=pl
-```
+
+
+<!-- REFERENCES -->
+## References
+Inspired by following codes, articles and videos:
+
+* [How we launched a data product in 60 days with AWS](https://towardsdatascience.com/launching-beta-data-product-within-two-month-with-aws-6ac6b55a9b5d)
+* [Toruń JUG #55 - "Kafka Connect - szwajcarski scyzoryk w rękach inżyniera?" - Mariusz Strzelecki](https://www.youtube.com/watch?v=iiz6t8g5t6Q)
+* [Kafka Elasticsearch Sink Connector and the Power of Single Message Transformations](https://sap1ens.com/blog/2020/05/23/kafka-elasticsearch-sink-connector-and-the-power-of-single-message-transformations/)
+* [Docker Tips and Tricks with Kafka Connect, ksqlDB, and Kafka](https://rmoff.net/2018/12/15/docker-tips-and-tricks-with-kafka-connect-ksqldb-and-kafka/)
+
+<!-- CONTRIBUTIONS -->
+## Contributions
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+
+<!-- CONTACT -->
+## Contact
+Please feel free to contact me if you have any questions.
+[Damian Kliś](https://www.linkedin.com/in/klisdamian/) [@DamianKlis](https://twitter.com/DamianKlis)
