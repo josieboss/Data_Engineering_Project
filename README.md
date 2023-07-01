@@ -135,4 +135,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <!-- CONTACT -->
 ## Contact
 Please feel free to contact me if you have any questions.
-[Damian Kliś](https://www.linkedin.com/in/klisdamian/) [@DamianKlis](https://twitter.com/DamianKlis)
+
