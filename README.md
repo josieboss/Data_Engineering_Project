@@ -135,4 +135,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <!-- CONTACT -->
 ## Contact
 Please feel free to contact me if you have any questions.
+www.linkedin.com/in/ola-jo-eseku
 
